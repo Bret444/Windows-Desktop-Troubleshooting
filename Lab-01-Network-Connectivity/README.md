@@ -4,7 +4,7 @@
 Simulate and troubleshoot a Windows computer that cannot access the internet because its wireless network adapter has been disabled.
 
 ## Environment
-- Operating System: Windows 10/11
+- Operating System: Windows 10
 - Tool: Command Prompt
 - Network Interface: Wireless Network Adapter
 
